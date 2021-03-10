@@ -1,0 +1,14 @@
+{
+  "name": "canva",
+  "version": "1.0.0",
+  "description": "Prueba de crear un mini juego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tarahaking",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
